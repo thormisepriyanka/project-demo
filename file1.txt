@@ -1,0 +1,3 @@
+python is object oriented language.
+here string list tuple st dictionary are the data type.
+python is high level programming language.
